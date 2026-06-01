@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "nassaa-web",
+  "compatibility_date": "2026-06-01",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "nasa-web"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
